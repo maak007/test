@@ -1,16 +1,15 @@
 {
-  "name": "nodejs-express-sequelizejs-mysql",
+  "name": "nodejs-express-sequelizejs-sqlserver",
   "version": "1.0.0",
-  "description": "nodejs-express-sequelizejs-mysql",
+  "description": "nodejs-express-sequelizejs-sqlserver",
   "main": "launcher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "NodeJs-Express-SequelizeJs-MySQL"
+    "NodeJs-Express-SequelizeJs-sqlserver"
   ],
-  "author": "JSA",
-  "license": "ISC",
+  "author": "amine",
   "dependencies": {
     "express": "^4.16.3",
     "sequelize": "^4.37.6",

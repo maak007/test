@@ -1,7 +1,7 @@
 {
   "name": "nodejs-express-sequelizejs-sqlserver",
   "version": "1.0.0",
-  "description": "nodejs-express-sequelizejs-sqlserver",
+  "description": "nodejs-express-sequelizejs-sqlserver yes",
   "main": "launcher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
